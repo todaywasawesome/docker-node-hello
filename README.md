@@ -2,6 +2,8 @@
 
 Node.js Hello World on CentOS using [docker][].
 
+yay
+
 ## Prerequisites
 
 - [Node.js & npm][node-js-download]
